@@ -1,0 +1,19 @@
+.form-profile{
+     height: 773px;
+}
+.form-avatar{
+     width: 100px;
+     height: 50px;
+     border-radius: 50%;
+   }
+   .form-avatar>   img{
+
+     width: 150px;
+     height: 150px;
+     border-radius: 50%;
+   }
+
+   .form-name{
+     
+     color: greenyellow;
+   }
